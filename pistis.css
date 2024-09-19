@@ -1,8 +1,9 @@
 /* General Styles */
 body {
     font-family: 'Roboto', sans-serif;
-    margin: 0;
-    padding: 0;
+    border: 1px solid #A9D7;
+    margin: 20px;
+    padding: 10;
     text-align: center;
     align-items: center;
 }
