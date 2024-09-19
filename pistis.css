@@ -143,27 +143,32 @@ body {
 /* Core Values Section Styles */
 .core-values {
     padding: 40px;
+    text-align: center;
 }
 
 .core-values ul {
     list-style: none;
     margin: 0;
     padding: 0;
+    text-align: center;
 }
 
 .core-values ul li {
     margin-bottom: 10px;
     display: flex;
     align-items: center;
+    text-align: center;
 }
 
 .core-values ul li i {
     margin-right: 10px;
+    text-align: center;
 }
 
 /* Contact Section Styles */
 .contact {
     padding: 40px;
+    text-align: center;
 }
 
 .contact form {
