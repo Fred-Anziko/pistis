@@ -6,7 +6,7 @@ body {
     padding: 0;
     text-align: center;
     align-items: center;
-    background-color: blue;
+    background-color: #007bff;
 
 }
 
@@ -45,7 +45,7 @@ body {
 
 /* Hero Section Styles */
 .hero {
-    background-color: #f0f0f0;
+    background-color: #007bff;
     display: flex;
     justify-content: center;
     align-items: center;
