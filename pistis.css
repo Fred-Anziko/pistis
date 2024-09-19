@@ -6,6 +6,8 @@ body {
     padding: 0;
     text-align: center;
     align-items: center;
+    background-color: rgba(0, 0, 255, 0.5);
+
 }
 
 /* Header Styles */
