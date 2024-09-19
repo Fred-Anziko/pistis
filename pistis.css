@@ -3,6 +3,8 @@ body {
     font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 0;
+    text-align: center;
+    align-items: center;
 }
 
 /* Header Styles */
@@ -11,11 +13,14 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 20px;
+    text-align: center;
+    align-items: center;
 }
 
 .logo img {
     width: 100px;
     height: auto;
+    align-items: center;
 }
 
 .navbar ul {
@@ -23,6 +28,7 @@ body {
     margin: 0;
     padding: 0;
     display: flex;
+    align-items: center;
 }
 
 .navbar ul li {
@@ -55,6 +61,7 @@ body {
 .hero-content p {
     font-size: 18px;
     margin-bottom: 30px;
+    align-items: center;
 }
 
 .hero-content .btn {
@@ -64,6 +71,7 @@ body {
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    align-items: center;
 }
 
 .hero-image {
@@ -75,6 +83,7 @@ body {
 /* About Section Styles */
 .about {
     padding: 40px;
+    align-items: center;
 }
 
 .team {
@@ -86,23 +95,28 @@ body {
 .team-member {
     text-align: center;
     margin: 20px;
+    align-items: center;
 }
 
 .team-member img {
     width: 200px;
     height: auto;
     border-radius: 50%;
+    align-items: center;
 }
 
 /* Services Section Styles */
 .services {
     padding: 40px;
+    text-align: center;
+    align-items: center;
 }
 
 .service-cards {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    align-items: center;
 }
 
 .service-card {
@@ -117,11 +131,13 @@ body {
     font-size: 30px;
     color: #007bff;
     margin-bottom: 10px;
+    align-items: center;
 }
 
 .service-card h3 {
     font-size: 24px;
     margin-bottom: 10px;
+    align-items: center;
 }
 
 /* Core Values Section Styles */
@@ -159,6 +175,7 @@ body {
     width: 100%;
     padding: 10px;
     margin-bottom: 20px;
+    text-align: center;
     border: 1px solid #ccc;
 }
 
