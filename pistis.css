@@ -13,8 +13,9 @@ body {
   background-color: rgb(135, 206, 250);
 }
 
-h1, h2, h3 {
+h1{
   text-align: center;
+  color: green; /* Green */
 }
 
 p {
