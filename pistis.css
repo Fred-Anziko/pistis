@@ -16,6 +16,8 @@ body {
 h1{
   text-align: center;
   background-color: #4CAF50; /* Green */; /* Green */
+  color: white;
+  border-radius: 25%;
 }
 
 p {
