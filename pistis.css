@@ -15,7 +15,7 @@ body {
 
 h1{
   text-align: center;
-  color: green; /* Green */
+  background-color: #4CAF50; /* Green */; /* Green */
 }
 
 p {
